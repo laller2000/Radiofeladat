@@ -1,0 +1,8 @@
+C:\Users\lalle\Desktop\Megoldas\Radio\Radio\bin\Debug\veetel.txt
+C:\Users\lalle\Desktop\Megoldas\Radio\Radio\bin\Debug\Radio.exe.config
+C:\Users\lalle\Desktop\Megoldas\Radio\Radio\bin\Debug\Radio.exe
+C:\Users\lalle\Desktop\Megoldas\Radio\Radio\bin\Debug\Radio.pdb
+C:\Users\lalle\Desktop\Megoldas\Radio\Radio\obj\Debug\Radio.csprojAssemblyReference.cache
+C:\Users\lalle\Desktop\Megoldas\Radio\Radio\obj\Debug\Radio.csproj.CoreCompileInputs.cache
+C:\Users\lalle\Desktop\Megoldas\Radio\Radio\obj\Debug\Radio.exe
+C:\Users\lalle\Desktop\Megoldas\Radio\Radio\obj\Debug\Radio.pdb
